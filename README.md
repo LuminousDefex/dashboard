@@ -1,3 +1,3 @@
-Create a Dashboard with React
+# A dashboard made with React
 
-Work in progress!
+Still work in progress
